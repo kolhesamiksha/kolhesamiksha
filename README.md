@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/kolhesamiksha](https://github.com/kolhesamiksha)
 
 - 📝 I used to write articles on medium about ML/DL, intention is to learn and give to others. you can find my article here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
-![OIP](https://user-images.githubusercontent.com/73512374/151506487-24a52c89-a599-4a33-b74e-0dad5fc5ccaa.jpg)
+                                                                                          ![OIP](https://user-images.githubusercontent.com/73512374/151506487-24a52c89-a599-4a33-b74e-0dad5fc5ccaa.jpg)
 
 - 💬 Ask me about **data analysis pipeline, Machine learning, Deep Learning, AI artifacts.**           
 
