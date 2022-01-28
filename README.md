@@ -4,19 +4,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhesamiksha&label=Profile%20views&color=0e75b6&style=flat" alt="kolhesamiksha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolhesamiksha" alt="kolhesamiksha" /></a> </p>
+ ![OGC](https://user-images.githubusercontent.com/73512374/151506860-91122d00-909b-4fa1-9bc7-8eec5656146e.gif)
 
 - 🌱 I’m currently learning **AWS, google cloud to built ML/DL applications on cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kolhesamiksha](https://github.com/kolhesamiksha)
 
-- 📝 I used to write articles on medium about ML/DL, intention is to learn and give to others. you can find my article here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
-                                                                                          ![OIP](https://user-images.githubusercontent.com/73512374/151506487-24a52c89-a599-4a33-b74e-0dad5fc5ccaa.jpg)
-
+- 📝 I used to write articles on medium about ML/DL, intention is to learn and give to others.
+- you can find my article here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
+                                                                                         
+ 
 - 💬 Ask me about **data analysis pipeline, Machine learning, Deep Learning, AI artifacts.**           
 
 - 📫 You can reach out to me on linkedin **www.linkedin.com/in/samiksha-kolhe25701**
 
-- Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:) you can join our whatsapp group to know ASTRO facts:) **https://chat.whatsapp.com/HqMGGnh1vRZADVV2pYpkxS**
+- Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:) 
+- you can join our whatsapp group to know ASTRO facts:) **https://chat.whatsapp.com/HqMGGnh1vRZADVV2pYpkxS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
