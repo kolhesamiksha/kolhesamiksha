@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolhesamiksha" alt="kolhesamiksha" /></a> </p>
 
-<p><img align="left" alt="gif" src="
+<p><img align="left" alt="gif" src="https://github.com/kolhesamiksha/kolhesamiksha/blob/main/img.gif" width="200" height="200" /></p>
 
 - 🌱 I’m currently learning **AWS, google cloud to built ML/DL applications on cloud**
 
