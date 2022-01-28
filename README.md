@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolhesamiksha" alt="kolhesamiksha" /></a> </p>
 
-![OGC](https://user-images.githubusercontent.com/73512374/151507197-fcf1ecef-aba0-44a1-b562-ac0d89eacce9.gif)
-
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966](https://user-images.githubusercontent.com/73512374/151507401-68f8ecdd-b144-4b8a-851a-a04cbaa46e3a.gif)
 
 - 🌱 I’m currently learning **AWS, google cloud to built ML/DL applications on cloud**
 
