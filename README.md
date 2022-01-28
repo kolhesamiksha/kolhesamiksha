@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhesamiksha&label=Profile%20views&color=0e75b6&style=flat" alt="kolhesamiksha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolhesamiksha" alt="kolhesamiksha" /></a> </p>
- ![OGC](https://user-images.githubusercontent.com/73512374/151506860-91122d00-909b-4fa1-9bc7-8eec5656146e.gif)
+![OGC](https://user-images.githubusercontent.com/73512374/151506967-865ffa8a-c45b-4d51-b985-b76680fdb923.gif)
+
 
 - 🌱 I’m currently learning **AWS, google cloud to built ML/DL applications on cloud**
 
