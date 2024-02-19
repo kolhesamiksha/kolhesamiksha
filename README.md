@@ -11,14 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kolhesamiksha](https://github.com/kolhesamiksha)
 
-- 📝 I used to write articles on medium about ML/DL, intention is to learn and give to others.
-- you can find my articles here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
-                                                                                         
- 
-- 💬 Ask me about **data analysis pipeline, Machine learning, Deep Learning, AI artifacts.**           
-
+- 📝 I write articles on Medium, Hashnode. Started a community where we collaborate and write articles regarding trending Skillset needed one to become job-ready and stand-out of the crowd.
+- Join teckbaker's community to write or subscribe to the community to be updated with latest technology here [https://teckbakers.hashnode.dev/]
+- you can find my Medium articles here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)                                                                             
+- 💬 Ask me about **GenAI, ML, Deep Learning, Mlops**           
 - 📫 You can reach out to me on linkedin **www.linkedin.com/in/samiksha-kolhe25701**
-
+  
 - Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:)
 
 ### Blogs posts
