@@ -7,20 +7,19 @@
 
 <p><img align="right" alt="gif" src="https://github.com/kolhesamiksha/kolhesamiksha/blob/main/img.gif" width="350" height="350" /></p>
 
-- 🌱 I’m currently learning **AWS, google cloud to built ML/DL applications on cloud**
+- 🌱 I’m currently learning **Generative AI and Mlops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kolhesamiksha](https://github.com/kolhesamiksha)
 
 - 📝 I used to write articles on medium about ML/DL, intention is to learn and give to others.
-- you can find my article here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
+- you can find my articles here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)
                                                                                          
  
 - 💬 Ask me about **data analysis pipeline, Machine learning, Deep Learning, AI artifacts.**           
 
 - 📫 You can reach out to me on linkedin **www.linkedin.com/in/samiksha-kolhe25701**
 
-- Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:) 
-- you can join our whatsapp group to know ASTRO facts:) **https://chat.whatsapp.com/HqMGGnh1vRZADVV2pYpkxS**
+- Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
