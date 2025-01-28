@@ -16,8 +16,6 @@
 - you can find my Medium articles here [https://medium.com/@kolhesamiksha25](https://medium.com/@kolhesamiksha25)                                                                             
 - 💬 Ask me about **GenAI, ML, Deep Learning, Mlops**           
 - 📫 You can reach out to me on linkedin **www.linkedin.com/in/samiksha-kolhe25701**
-  
-- Along with all I am a God seeker, curious to know the relation between modern space science and ancient astronomy:)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
