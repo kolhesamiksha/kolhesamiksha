@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
-<h3 align="center">A ML/DL enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)</h3>
+<h3 align="center">A Data Scientist cum AI enthusiast, Like a gradient descent striving hard to reach my goal with backpropagating my skills every day:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolhesamiksha&label=Profile%20views&color=0e75b6&style=flat" alt="kolhesamiksha" /> </p>
 
